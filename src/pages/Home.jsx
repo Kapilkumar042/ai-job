@@ -1,8 +1,6 @@
 import React from 'react'
-import DetailedPostPage from '../components/DetailedPostPage'
 import InfoCards from '../components/InfoCards'
 import JobsByQualification from '../components/JobsByQualification'
-import RajasthanSanganakAdmitCard from '../components/RajasthanSanganakAdmitCard'
 import ResultsPlatform from '../components/ResultsPlatform'
 import SocialMediaFollow from '../components/SocialMediaFollow'
 
